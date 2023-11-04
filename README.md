@@ -6,9 +6,11 @@ The final user will be the person in charge of hiring new employees.
 This person looks through hundreds of CVs so in my project he is expected to find a visually appealing, clear and comprehensive resume of my academical and work skills. Hopefully not boring to read and appealing enough to catch his attention.
 
 
+
 Information architecture:
 
 Blabla
+
 
 
 Visual design:
@@ -21,6 +23,7 @@ The Main content column uses light gray as background color, dark blue for the c
 The typography I used for all the text is Inter (the default typography of Figma).
 
 I looked at other CV templates on Figma and decided to mimic this one: https://www.figma.com/file/JPxXfeeXFqo2a7LQ0Acj0b/CV-Template-for-Figma-(Community)?type=design&node-id=28-1&mode=design&t=KiXL27ymG2UcvNMc-0
+
 
 
 Figma Link: https://www.figma.com/file/lp72q7fKRsxQpj0eaLhgEu/CV?type=design&node-id=0%3A1&mode=design&t=KiXL27ymG2UcvNMc-1
