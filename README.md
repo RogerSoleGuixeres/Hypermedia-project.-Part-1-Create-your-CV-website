@@ -7,7 +7,7 @@ This person looks through hundreds of CVs so in my project he is expected to fin
 
 # Information architecture:
 
-Blabla
+I don't know what I have to put here :(
 
 # Visual design:
 
